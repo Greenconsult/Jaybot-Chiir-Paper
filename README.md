@@ -2,11 +2,12 @@
 Data visualization for the demo paper JayBot~-- Aiding University Students and Admission with an LLM-based Chatbot
 
 Live chat survey results
-   
+
 1.	After providing your personal details, how long did it take for a live chat personnel (Student or Staff) to respond to you on the chat?
+   
 ![image](https://github.com/Greenconsult/Jaybot-Chiir-Paper/assets/130986642/f75046c3-8d0c-4ec7-a51f-8fa600e571e6)
 
- Figure 1.1: Live chat response rate
+Figure 1.1: Live chat response rate
  
 Figure 1.1 shows the overall response rate of the live chat platform from the survey, how long it takes for users to get a response on the university live chat platform. 
 
