@@ -47,7 +47,7 @@ Figure 4.1 demonstrate the usefulness of the live chat platform in responding to
    
  ![image](https://github.com/Greenconsult/Jaybot-Chiir-Paper/assets/130986642/1bc335df-0345-4141-912b-8e7f753e03f2)
 
-Figure 5.1: Live chat user’s willingness for a chatbot solution 
+Figure 6.1: Live chat user’s willingness for a chatbot solution 
 
-Lastly, Figure 5.1 summarises the essence of the survey, it shows user’s willingness to embrace a chatbot technology solution to support the university live chat platform. 
+Lastly, Figure 6.1 summarises the essence of the survey, it shows user’s willingness to embrace a chatbot technology solution to support the university live chat platform. 
 
