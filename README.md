@@ -19,7 +19,9 @@ Figure 2.1: Live chat support presence
 
 Figure 2.1 gives an insight into the availability of human support on the live chat platform.
 
-3. Did you get the information you seek from the Live chat? 	# Mutiple choice selection was allowed 	 	 	 
+3. Did you get the information you seek from the Live chat?
+
+# Mutiple choice selection was allowed 	 	 	 
 
 ![image](https://github.com/Greenconsult/Jaybot-Chiir-Paper/assets/130986642/81b5e46e-58e1-4ce4-9065-f312df591fc1)
 
