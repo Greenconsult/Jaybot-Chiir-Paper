@@ -55,5 +55,5 @@ Figure 6.1: Live chat user’s willingness for a chatbot solution
 
 Lastly, Figure 6.1 summarises the essence of the survey, it shows user’s willingness to embrace a chatbot technology solution to support the university live chat platform. 
 
-Spreadsheet data for the [livechat survey](https://docs.google.com/spreadsheets/d/1Lm-4eKELRHj89u9q6VlenlHCbEUtOVjM/edit?usp=sharing&ouid=111156514980420706408&rtpof=true&sd=true)
+Spreadsheet data for the livechat survey can be found [here](https://docs.google.com/spreadsheets/d/1Lm-4eKELRHj89u9q6VlenlHCbEUtOVjM/edit?usp=sharing&ouid=111156514980420706408&rtpof=true&sd=true)
 
