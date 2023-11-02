@@ -40,7 +40,8 @@ Figure 4.1 shows the ease of use of the university live chat platform, how users
 
 5.	Overall, how would you rate your experience on the live chat?
 
-  ![image](https://github.com/Greenconsult/Jaybot-Chiir-Paper/assets/130986642/f1174e01-80e7-42e5-a63e-8e9d1b5da59e)
+  ![image](https://github.com/Greenconsult/Jaybot-Chiir-Paper/assets/130986642/5d092df5-2458-47ab-a1ca-49d4387f0826)
+
 
 Figure 4.1: Live chat user’s satisfaction
 
