@@ -49,7 +49,7 @@ Figure 4.1 demonstrate the usefulness of the live chat platform in responding to
 
 6.	Would you prefer an intelligent chatbot technology on the webpage that provides instant response to users/visitors?
    
- ![image](https://github.com/Greenconsult/Jaybot-Chiir-Paper/assets/130986642/1bc335df-0345-4141-912b-8e7f753e03f2)
+ ![image](https://github.com/Greenconsult/Jaybot-Chiir-Paper/assets/130986642/bd1f5d6f-d891-49c4-852e-7e5a32ead15f)
 
 Figure 6.1: Live chat user’s willingness for a chatbot solution 
 
