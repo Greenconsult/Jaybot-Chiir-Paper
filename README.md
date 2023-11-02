@@ -43,9 +43,9 @@ Figure 4.1 shows the ease of use of the university live chat platform, how users
   ![image](https://github.com/Greenconsult/Jaybot-Chiir-Paper/assets/130986642/5d092df5-2458-47ab-a1ca-49d4387f0826)
 
 
-Figure 4.1: Live chat user’s satisfaction
+Figure 5.1: Live chat user’s satisfaction
 
-Figure 4.1 demonstrate the usefulness of the live chat platform in responding to queries and providing information to users. It shows the overall satisfaction of users on the university live chat platform from the survey.
+Figure 5.1 demonstrate the usefulness of the live chat platform in responding to queries and providing information to users. It shows the overall satisfaction of users on the university live chat platform from the survey.
 
 6.	Would you prefer an intelligent chatbot technology on the webpage that provides instant response to users/visitors?
    
